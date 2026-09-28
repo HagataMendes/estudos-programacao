@@ -1,0 +1,15 @@
+# Build
+bin/
+obj/
+out/
+target/
+dist/
+node_modules/
+*.class
+
+# IDEs
+.idea/
+.vs/
+.vscode/
+*.iml
+*.lnk
